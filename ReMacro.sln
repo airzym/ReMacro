@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReMacro.TestMacros", "src\ReMacro.TestMacros\ReMacro.TestMacros.csproj", "{EF3A725F-88D0-4F61-B7AE-C8B9B3A453A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReMacro.TestMacros.Tests", "tests\ReMacro.TestMacros.Tests\ReMacro.TestMacros.Tests.csproj", "{BC42FBB7-7299-41C3-8F87-618B87D476B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{00CA943C-7AFF-4CD7-8D9E-B3958C3B0CF7}"
+	ProjectSection(SolutionItems) = preProject
+		ReMacro.TestMacros.nuspec = ReMacro.TestMacros.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3A725F-88D0-4F61-B7AE-C8B9B3A453A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3A725F-88D0-4F61-B7AE-C8B9B3A453A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3A725F-88D0-4F61-B7AE-C8B9B3A453A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3A725F-88D0-4F61-B7AE-C8B9B3A453A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC42FBB7-7299-41C3-8F87-618B87D476B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC42FBB7-7299-41C3-8F87-618B87D476B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC42FBB7-7299-41C3-8F87-618B87D476B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC42FBB7-7299-41C3-8F87-618B87D476B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
