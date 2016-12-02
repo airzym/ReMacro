@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ReMacro.TestMacros</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>ReSharper Test Macros and Templates</title>
     <authors>Aaron Bamford</authors>
     <owners>Aaron Bamford</owners>
@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/airzy91/ReMacro</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Template Macros for ReSharper to be used in File Templates</description>
-    <releaseNotes>None</releaseNotes>
+    <releaseNotes>Fixed nunit template</releaseNotes>
     <dependencies>
       <dependency id="Wave" version="[6.0]"/>
     </dependencies>
