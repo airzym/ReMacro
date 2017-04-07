@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ReMacro.TestMacros</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <description>Template Macros for ReSharper to be used in File Templates</description>
     <authors>Aaron Bamford</authors>
     <title>ReSharper Test Macros and Templates</title>
     <licenseUrl>https://github.com/airzy91/ReMacro</licenseUrl>
     <projectUrl>https://github.com/airzy91/ReMacro</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>Target ReSharper 2017</releaseNotes>
+    <releaseNotes>Target ReSharper 2017.1</releaseNotes>
     <dependencies>
-      <dependency id="Wave" version="[7.0]"/>
+      <dependency id="Wave" version="[8.0]"/>
     </dependencies>
   </metadata>
   <files>
