@@ -3,16 +3,15 @@
   <metadata>
     <id>ReMacro.TestMacros</id>
     <version>1.0.2</version>
-    <title>ReSharper Test Macros and Templates</title>
+    <description>Template Macros for ReSharper to be used in File Templates</description>
     <authors>Aaron Bamford</authors>
-    <owners>Aaron Bamford</owners>
+    <title>ReSharper Test Macros and Templates</title>
     <licenseUrl>https://github.com/airzy91/ReMacro</licenseUrl>
     <projectUrl>https://github.com/airzy91/ReMacro</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Template Macros for ReSharper to be used in File Templates</description>
-    <releaseNotes>Fixed nunit template</releaseNotes>
+    <releaseNotes>Target ReSharper 2017</releaseNotes>
     <dependencies>
-      <dependency id="Wave" version="6.0"/>
+      <dependency id="Wave" version="[7.0]"/>
     </dependencies>
   </metadata>
   <files>
